@@ -1,0 +1,7 @@
+# ninja log v5
+394	496	1645676436609045866	Project3_starter_files	a30b77eb2887a4b1
+1	329	1645562568866929039	CMakeFiles/Project3_starter_files.dir/main.cpp.o	d0172e8313723cbb
+0	394	1645676436504381315	CMakeFiles/Project3_starter_files.dir/Project3.cpp.o	5f09d29b4ef31602
+0	439	1664154933670517762	CMakeFiles/Project3_starter_files.dir/main.cpp.o	6e2cb650b0be9b1c
+4	439	1664154933670513884	CMakeFiles/Project3_starter_files.dir/Project3.cpp.o	f1337936a42fc60a
+439	599	1664154933834177382	Project3_starter_files	bb574abe6d0db9ec
